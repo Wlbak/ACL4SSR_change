@@ -2,22 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-
-      ]
-    },
-    {
       "domain_suffix": [
         ".luobook.fun"
-      ]
-    },
-    {
-      "domain_keyword": [
-
-      ]
-    },
-    {
-      "ip_cidr": [
       ]
     }
   ]
